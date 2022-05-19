@@ -1,10 +1,16 @@
 <div align="center" width="100%">
   <h1>🌸 꽃길레터 🌸</h1>
-  <img width="210" alt="스크린샷 2022-05-10 오후 3 33 52" src="https://user-images.githubusercontent.com/58814562/167563622-d009300e-31aa-4261-9590-a8323ae81ffd.png">
+  <span>이미지를 클릭하면 페이지로 이동합니다 ☻</span>
+  <div>
+    <a href="https://letter.ggotgil.com">
+      <img width="210" alt="스크린샷 2022-05-10 오후 3 33 52" src="https://user-images.githubusercontent.com/58814562/167563622-d009300e-31aa-4261-9590-a8323ae81ffd.png">
+    </a>
+  </div>
+  
   <div align="row">
     <img width="300" alt="전체움짤" src="https://user-images.githubusercontent.com/58814562/167546977-0f5d14d2-429c-44a5-84c1-4a031a3c1040.gif">
-      ➔
-    <img width="300" alt="후기움짤" src="https://user-images.githubusercontent.com/58814562/167548244-74d4ab84-411d-43a8-8cd6-b265426075a8.gif">
+    <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <img width="300" alt="후기움짤" src="https://user-images.githubusercontent.com/58814562/167548244-74d4ab84-411d-43a8-8cd6-b265426075a8.gif">    
   </div>
 </div>
 <br />
@@ -26,7 +32,7 @@
 - figma
 - Google analytics
 ## 🌼 Problem solving
-여러가지 문제들을 해결했던 과정들을 [블로그]()에 정리해보려 합니다.<br />
+여러가지 문제들을 해결했던 과정들을 [블로그](https://velog.io/@eassy/%EA%BD%83%EA%B8%B8%EB%A0%88%ED%84%B0-%EC%9E%91%EC%97%85%EA%B8%B0)에 정리해보려 합니다.<br />
 
 ## 🌼 Pages
 > 간단한 css 작업의 경우, 시간이 널널하지 않은 문제로 디자이너가 이미지로 작업해준 것을 사용했습니다.
@@ -70,6 +76,6 @@
 급박하게 작업한 프로젝트였지만, 한 서비스의 시작과 끝을 협업을 통해 경험하게 된 시간이었던 것 같습니다.<br />
 <br />
 이번 프로젝트를 통해 기획과 디자인 영역에 대한 고민을 깊이 하게 되었고 <br />
-협업에서 중요한 포인트는, 원하는 바를 정확하게 전달하는 능력이라는 것을 깨닫게 된 것 같습니다.<br />
+협업에서는 원하는 바를 정확하게 전달하는 커뮤니케이션 스킬이 가장 중요하다는 것을 깨닫게 된 것 같습니다.<br />
 <br />
 > 기존의 코드에서 아쉬웠던 부분을 리팩토링 해볼 예정입니다.
